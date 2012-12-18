@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:clickable="false"
+	android:focusable="false"
+	android:background="#101255">
+	<TextView
+		android:id="@+id/menu_text"
+		android:layout_height="wrap_content"
+		android:text="--= Entropia Companion =--"
+		android:layout_width="fill_parent" 
+		android:gravity="center" 
+		android:textStyle="bold"
+		android:textSize="18dp"
+		android:textColor="#FFFFFF"
+		android:background="#202488"
+		android:clickable="false"
+		android:padding="6dp" 
+		android:lines="1">
+	</TextView>
+	<TableLayout
+		android:id="@+id/menubar"
+		android:layout_width="fill_parent"
+		android:layout_height="2dip"
+		android:layout_below="@+id/menu_text"
+		android:background="#999999">
+	</TableLayout>
+	<GridView
+		android:id="@+id/GridView01"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:padding="10dp"
+		android:verticalSpacing="10dp"
+		android:horizontalSpacing="10dp"
+		android:numColumns="auto_fit"
+		android:columnWidth="80dp"
+		android:stretchMode="columnWidth"
+		android:background="#101255"
+		android:clickable="false"
+		android:gravity="center" 
+		android:layout_below="@+id/menubar">
+	</GridView>
+</RelativeLayout>

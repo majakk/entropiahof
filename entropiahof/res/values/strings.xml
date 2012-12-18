@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">0.6.1</string>
+    <string name="app_name">Entropia Companion</string>
+    <string name="about">\n
+    Disclaimer: This mobile application is not affiliated with MindArk PE AB or any MindArk PE AB Planet partners nor Entropia Tracker nor PEAuction. It is made as a independent community effort mash-up featuring only publicly available content.
+    \n\n
+    Please send any comments, bug-reports or feature requests to:
+    \n
+	studio.coldstream@gmail.com\n
+	\n
+	Version 0.6.1
+    </string>
+</resources>

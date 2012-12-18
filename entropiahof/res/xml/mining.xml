@@ -1,0 +1,183 @@
+
+<table>
+<tr>
+<th> Level </th><th>Name </th><th>Extrapolated TT Range (PED) </th><th>Observed TT Range (PED)</th>
+</tr>
+<tr>
+<td> I
+
+</td><td> Minimal
+</td><td> 0.00 - 0.50
+</td><td> none noted
+</td></tr>
+<tr>
+<td> II
+</td><td> Tiny
+</td><td> 0.50 - 0.99
+</td><td> 0.58 - 0.94
+</td></tr>
+
+<tr>
+<td> III
+</td><td> Very Poor
+</td><td> 1.00 - 1.99
+</td><td> 1.06 - 1.96
+</td></tr>
+<tr>
+<td> IV
+</td><td> Poor
+</td><td> 2.00 - 2.99
+
+</td><td> 2.00 - 2.95
+</td></tr>
+<tr>
+<td> V
+</td><td> Small
+</td><td> 3.00 - 3.99
+</td><td> 3.03 - 3.40
+</td></tr>
+<tr>
+<td> VI
+</td><td> Modest
+
+</td><td> 4.00 - 5.99
+</td><td> 4.84 - 5.80
+</td></tr>
+<tr>
+<td> VII
+</td><td> Average
+</td><td> 6.00 - 7.99
+</td><td> 6.01 - 7.80
+</td></tr>
+<tr>
+<td> VIII
+
+</td><td> Medium
+</td><td> 8.00 - 11.99
+</td><td> 8.42 - 8.47
+</td></tr>
+<tr>
+<td> IX
+</td><td> Ample
+</td><td> 12 - 17
+</td><td> 17.64
+</td></tr>
+
+<tr>
+<td> X
+</td><td> Considerable
+</td><td> 18 - 24
+</td><td> 22.01 - 23.70
+</td></tr>
+<tr>
+<td> XI
+</td><td> Sizable
+</td><td> 25 - 34
+
+</td><td> 30.74
+</td></tr>
+<tr>
+<td> XII
+</td><td> Large
+</td><td> 35 - 49
+</td><td> 35.20
+</td></tr>
+<tr>
+<td> XIII
+</td><td> Abundant
+
+</td><td> 50 - 74
+</td><td> 50 - 74
+</td></tr>
+<tr>
+<td> XIV
+</td><td> Great
+</td><td> 75 - 124
+</td><td> 75 - 124
+</td></tr>
+<tr>
+<td> XV
+
+</td><td> Substantial
+</td><td> 125 - 199
+</td><td> 125 - 183
+</td></tr>
+<tr>
+<td> XVI
+</td><td> Significant
+</td><td> 200 - 299
+</td><td> 205 - 283
+</td></tr>
+
+<tr>
+<td> XVII
+</td><td> Plentiful
+</td><td> 300 - 449
+</td><td> 319 - 440
+</td></tr>
+<tr>
+<td> XVIII
+</td><td> Huge
+</td><td> 450 - 599
+
+</td><td> 461 - 555
+</td></tr>
+<tr>
+<td> XIX
+</td><td> Extremely Large
+</td><td> 600 - 799
+</td><td> 767
+</td></tr>
+<tr>
+<td> XX
+</td><td> Massive
+
+</td><td> 800 - 1,199
+</td><td> 801 - 1,149
+</td></tr>
+<tr>
+<td> XXI
+</td><td> Vast
+</td><td> 1,300 - 2,499
+</td><td> 1,382 - 2,479
+</td></tr>
+<tr>
+<td> XXII
+
+</td><td> Enormous
+</td><td> 2,500 - 4,900
+</td><td> 3,062 - 4,574
+</td></tr>
+<tr>
+<td> XXIII
+</td><td> Rich
+</td><td> 5,100 - 20,999
+</td><td> 5,504 - 17,893
+</td></tr>
+
+<tr>
+<td> XXIV
+</td><td> Gigantic
+</td><td> 26,000 - 93,999
+</td><td> 27,420 - 76,092
+</td></tr>
+<tr>
+<td> XXV
+</td><td> Collosal
+</td><td>
+</td><td>
+
+</td></tr>
+<tr>
+<td> XXVI
+</td><td> Mammoth
+</td><td> 158,000
+</td><td>
+</td></tr>
+<tr>
+<td> XXVII
+</td><td> Immense
+</td><td>
+</td><td>
+
+</td></tr></table>
